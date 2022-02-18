@@ -1,7 +1,7 @@
 //Вывод простых чисел
 public class Primes {
 
-    //поиск и вывод простых чисел
+    //Поиск и вывод простых чисел
     public static void main(String[] args) {
         System.out.println("Prime numbers from 2 to 100:");
         for (int i = 2; i <= 100; i++){
